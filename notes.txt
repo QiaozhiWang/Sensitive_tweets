@@ -1,0 +1,19 @@
+1. missing words:
+embarrassing
+gambling
+
+2. Should track the sentence id, user_id
+3. 如果有多个keywords出现，只记录一次sentence，记录到第一个keyword中
+4. 
+
+
+
+
+How to extract tweets:
+1.Delete all the tweets contain RT and url 
+
+
+Sentence: "yeah you smell like alcohol"
+
+But I made my 8:30!	Keyword: ['alcohol']
+
